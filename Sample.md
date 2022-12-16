@@ -44,11 +44,3 @@
 	 • Discontinue  -  Remove Product.
 
 <img  align="center"  width="500" height="250" src="assets\ProdList.png"/>
-
-
-
-
-
-
-
-
